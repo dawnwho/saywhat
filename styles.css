@@ -1,0 +1,35 @@
+
+
+body {
+    font-family: "Playfair Display", serif;;
+    /* background-color: red; */
+    background-image: url("./Animation\ -\ 1721878068409.gif");
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.card {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card-title {
+    font-weight: bold;
+}
+
+#result {
+    font-size: 1.2em;
+}
+
+#buttoncolour:hover {
+    background-color: #FF00FF;
+}
+
+#buttoncolour {
+    background-color: pink;
+    border: 0;
+}
+
+  
